@@ -7,4 +7,4 @@ c. MPU9255 - Triple Axis Accelerometer<br>
 d. Gyro and Magnetometer Breakout<br>
 e. SparkFun ADXL345 - Triple Axis Accelerometer<br>
 
-![alt tag](https://raw.githubusercontent.com/softdonkey/microSPARK/master/screenshot.png)
+![alt tag](https://raw.githubusercontent.com/fsiamp/microSPARK/master/screenshot.png)
